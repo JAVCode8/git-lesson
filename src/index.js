@@ -1,2 +1,2 @@
 console.log("Index Git");
-console.log("Git version 1");
+console.log("Git version 2");

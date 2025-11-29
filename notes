@@ -1,0 +1,10 @@
+git init
+git config --global user.name ""
+git config --global user.email ""
+
+git add .
+git commit -m "name of the version"
+git status
+git log
+git reset (file name) - it will take out take file from staged changes
+git checkout -- (file name) - it will undo the changes for that file

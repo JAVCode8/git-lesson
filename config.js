@@ -1,2 +1,2 @@
 console.log("Config Git");
-console.log("Git version 1");
+console.log("Git version 2 updated");
