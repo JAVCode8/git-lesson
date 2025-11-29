@@ -8,3 +8,13 @@ git status
 git log
 git reset (file name) - it will take out take file from staged changes
 git checkout -- (file name) - it will undo the changes for that file
+git log --all --graph
+git config --global alias.s "status"
+rm -rf .git or Remove-Item -Recurse -Force .git -> this removes the git in your project
+
+
+PS C:\Users\john aldrin villa\onedrive\Desktop\GIT> git remote add origin https://github.com/JAVCode8/git-lesson.git
+PS C:\Users\john aldrin villa\onedrive\Desktop\GIT> git config --global credential.username "adlrin"
+git remote add (name) url
+git remote remove (name)
+git push (name) master
